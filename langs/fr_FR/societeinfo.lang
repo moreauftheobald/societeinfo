@@ -1,0 +1,11 @@
+Module203100Name=Societe Info
+Module203100Desc=Récuperation des informations tiers via l'API de societeinfo.com (module non officiel)
+SocieteInfo=Societe Info
+SISetupTitle=Configuration du module Societe Info
+Create=Créer
+API_UNDEFINED_KEY=La clé d'API n'est pas définie
+API_INVALID_KEY=La clé d'API est invalide
+API_MAX_MATCH_EXCEEDED=Le maximum de match quotidien a été dépassé
+API_COMPANY_NOT_FOUND=La société n'a pas été trouvée
+API_INVALID_PAGE=La page demandée n'existe pas
+USER_COMPANY_EXPIRED=Le compte est expiré, la carte de crédit a été refusée
